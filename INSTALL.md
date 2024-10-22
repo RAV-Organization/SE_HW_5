@@ -11,6 +11,6 @@ Specifies all requirements to run the project
 1. Clone the Github repository to a desired location on your computer. You will need [git](https://git-scm.com/) to be preinstalled on your machine. Once the repository is cloned, you will then `cd` into the local repository.
 
 ```
-git clone [https://github.com/vamsitadikonda/slash](https://github.com/RAV-Organization/SE_HW_5)
-cd hw5
+git clone https://github.com/RAV-Organization/SE_HW_5
+cd SE_HW_5-master
 ```
